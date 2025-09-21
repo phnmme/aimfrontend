@@ -9,8 +9,8 @@ export default function Home() {
    <div className={'flex '}>
     
     <Nav></Nav>
-    {/* <Dashboard></Dashboard> */}
-    <Act></Act>
+    <Dashboard></Dashboard>
+    {/* <Act></Act> */}
     
     
 
