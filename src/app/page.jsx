@@ -6,7 +6,7 @@ import Act from "./act/page";
 
 export default function Home() {
   return (
-   <div className="flex">
+   <div className={'flex '}>
     
     <Nav></Nav>
     {/* <Dashboard></Dashboard> */}
